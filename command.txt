@@ -1,0 +1,11 @@
+sudo apt install dos2unix -y
+dos2unix .sh
+
+sudo apt upgrade
+sudo apt update
+sudo apt install python3-pip
+
+pip3 install eclipse-zenoh
+sudo su
+
+scp [使用者名稱]@[Raspberry Pi IP 地址]:[檔案路徑] [目標路徑在Windows]
