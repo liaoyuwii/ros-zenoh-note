@@ -12,3 +12,6 @@ https://stackoverflow.com/questions/76481950/azure-webapp-unable-to-install-dock
 
 https://hackmd.io/@Kd5jekz8Sdac4cr_ZMXfMw/Sk1MQlB-Y
 ros2 zenoh
+
+https://hackmd.io/Tn0LjokmSCCGDt6H5unZHg?both=
+hackmd
