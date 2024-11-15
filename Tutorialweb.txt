@@ -9,3 +9,6 @@ python read .txt
 
 ubuntu ssh install docker bug
 https://stackoverflow.com/questions/76481950/azure-webapp-unable-to-install-docker-buildx-in-ssh
+
+https://hackmd.io/@Kd5jekz8Sdac4cr_ZMXfMw/Sk1MQlB-Y
+ros2 zenoh
