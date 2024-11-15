@@ -1,0 +1,11 @@
+https://docs.ros.org/en/foxy/Tutorials/Beginner-Client-Libraries/Colcon-Tutorial.html
+ros2
+
+https://blog.csdn.net/stallion5632/article/details/141306631
+zenoh c++
+
+https://shengyu7697.github.io/python-read-text-file/
+python read .txt
+
+ubuntu ssh install docker bug
+https://stackoverflow.com/questions/76481950/azure-webapp-unable-to-install-docker-buildx-in-ssh
